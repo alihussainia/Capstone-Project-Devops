@@ -19,7 +19,7 @@ For application development:
 - Jenkins build automatically runs based on triggers
   - Files are linted
   - Docker image build and uploaded to ECR
-  - ECS tasks updated to run new Docker image using rolling deployment
+  - ECS tasks updated to run new Docker image using **rolling deployment**
 
 ## Running the stuff
 
